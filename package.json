@@ -1,0 +1,22 @@
+{
+  "name": "lab-javascript-basic-algorithms",
+  "version": "1.0.0",
+  "description": "![logo_ironhack_blue 7](https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png)",
+  "main": "index.js",
+  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./js/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucasWhiteRossi/lab-javascript-basic-algorithms.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LucasWhiteRossi/lab-javascript-basic-algorithms/issues"
+  },
+  "homepage": "https://github.com/LucasWhiteRossi/lab-javascript-basic-algorithms#readme"
+}

@@ -91,3 +91,4 @@ console.log(phraseToCheck("taco cat"));
 console.log(phraseToCheck("put it up"));
 console.log(phraseToCheck("Was it a car or a cat I saw?"));
 console.log(phraseToCheck("No 'x' in Nixon"));
+console.log(phraseToCheck("Lab interessante"));
